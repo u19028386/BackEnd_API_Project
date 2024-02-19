@@ -9,6 +9,7 @@
 
         public int ClaimItemId { get; set; }
 
+
         public bool IsEligibleToClaim { get; set; }
 
         public decimal ClaimableAmount { get; set; }
